@@ -15,4 +15,5 @@
  * 10. import googleAuthProvider from firebase.auth.GoogleAuthProvider(); and create a new provider
  * 11. use signInWithPopUp and pass auth and provider
  * 12. acctivate sign-in method (google, facebook, github, etc.)
+ * [vite]: change 127.0.0.1 to localhost in the browser
  * */ 
