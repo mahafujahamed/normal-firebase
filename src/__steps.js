@@ -1,6 +1,7 @@
 
 // *********** Firebase Setup ***********
 
+// -----------------------------------------------------
 
 /**
  * 1. visit: console.firebase.google.com
@@ -16,4 +17,8 @@
  * 11. use signInWithPopUp and pass auth and provider
  * 12. acctivate sign-in method (google, facebook, github, etc.)
  * [vite]: change 127.0.0.1 to localhost in the browser
- * */ 
+ * -------------------------------------
+ *             More Auth roviders
+ * -------------------------------------
+ * 1. activate the provider(create a, provide redirect url, client id, client secret)
+ **/ 
